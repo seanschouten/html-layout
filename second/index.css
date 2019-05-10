@@ -1,0 +1,29 @@
+.topsection {
+    border: 5px solid black;
+    width: 100%;
+    height: 100px; 
+    margin: 10px;
+    display: inline-flex;
+}
+.rectangle {
+    background: purple 100px;
+    width: 25px;
+    height: 65px;
+    margin: 5px;
+    margin-top: 30px;
+}
+.bigbox {
+    background: green 75px;
+    width: 205px;
+    height: 85px;
+    margin: 10px;
+}
+.circle {
+    border-radius: 50px;
+    width: 85px;
+    height: 85px;
+    background-color: blue;
+    margin: 10px;
+
+
+}
